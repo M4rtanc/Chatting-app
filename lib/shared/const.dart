@@ -1,0 +1,3 @@
+const BIG_PADDING = 20.0;
+const MEDIUM_PADDING = BIG_PADDING / 2;
+const OPACITY = 0.2;

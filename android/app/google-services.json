@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019251402010",
+    "project_id": "pv292-chatting-app-8ed91",
+    "storage_bucket": "pv292-chatting-app-8ed91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019251402010:android:a634eef92326a3d45d38a3",
+        "android_client_info": {
+          "package_name": "cz.muni.fi.pv292.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEOuW4rq8ovZjIyNUDZp81UvW9_ByvJls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

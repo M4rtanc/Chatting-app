@@ -1,0 +1,4 @@
+enum ChatGroupType {
+  single,
+  group
+}
